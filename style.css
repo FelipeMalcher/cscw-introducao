@@ -13,7 +13,7 @@ img {
     text-align: center;
 }
 
-.button {
+.btn {
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
@@ -28,7 +28,7 @@ img {
     cursor: pointer;
 }
 
-.button:hover {
+.btn:hover {
     background-color: #4CAF50;
     color: white;
 }
