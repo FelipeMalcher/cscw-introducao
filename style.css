@@ -13,7 +13,11 @@ img {
     text-align: center;
     border: 5px;
 }
-
+.button{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    text-decoration: none;
+    
 .btn-outline-info {
     background-color: #4CAF50; /* Green */
     border: none;
