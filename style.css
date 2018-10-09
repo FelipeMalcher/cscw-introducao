@@ -13,10 +13,13 @@ img {
     text-align: center;
     border: 5px;
 }
-.button{
-    background-color: #4CAF50; /* Green */
-    border: none;
-    text-decoration: none;
+.botao  {
+position:absolute;
+top:20px;
+left:50px;
+margin:0px;
+padding:0px;
+        }
     
 .btn-outline-info {
     background-color: #4CAF50; /* Green */
