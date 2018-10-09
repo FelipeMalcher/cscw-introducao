@@ -19,7 +19,19 @@ top:20px;
 left:50px;
 margin:0px;
 padding:0px;
-        }
+}
+.botao a {  
+font: bold 12px/24px arial, helvetica, sans-aerif;	
+padding:0px;
+text-decoration: none;
+text-align:center;	
+color:#ccc;
+background: #666 url('botao_link.gif')
+ no-repeat center center;	
+width:120px;  
+height:24px;	
+display:block;	
+}
     
 .btn-outline-info {
     background-color: #4CAF50; /* Green */
